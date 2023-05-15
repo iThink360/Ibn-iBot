@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/main/java/commands/Discontinue.java=UTF-8
+encoding//src/main/java/commands/Help.java=UTF-8
+encoding//src/main/java/commands/ModifyProfile.java=UTF-8
+encoding//src/main/java/commands/Purge.java=UTF-8
+encoding//src/main/java/events/Automoderator.java=UTF-8
+encoding//src/main/java/events/LinkFilter.java=UTF-8
+encoding//src/main/java/events/SuppressEveryoneAndHere.java=UTF-8
+encoding//src/main/java/main/Kill.java=UTF-8
+encoding//src/main/java/main/Ready.java=UTF-8
+encoding//src/main/java/punishments/Ban.java=UTF-8
+encoding//src/main/java/punishments/Kick.java=UTF-8
+encoding//src/main/java/punishments/Mute.java=UTF-8
+encoding//src/main/java/punishments/Strike.java=UTF-8
